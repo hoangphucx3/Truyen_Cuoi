@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="7dp"
+        card_view:cardBackgroundColor="#f6f6f6"
+        card_view:cardCornerRadius="10dp"
+        card_view:cardElevation="7dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/ivHinh"
+                android:src="@drawable/con_nit"
+                android:layout_width="0dp"
+                android:layout_height="60dp"
+                android:layout_weight="2"/>
+
+            <TextView
+                android:id="@+id/tvTen"
+                android:text="Noi dung"
+                android:layout_gravity="center"
+                android:textSize="24sp"
+                android:layout_marginLeft="10dp"
+                android:textColor="#628C31"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"/>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

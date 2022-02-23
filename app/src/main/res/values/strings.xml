@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Truyen Cuoi</string>
+    <string-array name="mangTopic">
+        <item>con_gai</item>
+        <item>con_nit</item>
+        <item>con_trai</item>
+        <item>cong_so</item>
+        <item>cuc_hai</item>
+        <item>cuoi_18</item>
+        <item>dan_gian</item>
+        <item>gia_dinh</item>
+        <item>giao_thong</item>
+        <item>hoc_sinh</item>
+        <item>hoc_tro_cuoi</item>
+        <item>khoa_hoc</item>
+        <item>nghe_nghiep</item>
+        <item>nguoi_lon</item>
+        <item>nha_hang</item>
+        <item>say_xin</item>
+        <item>tam_quoc</item>
+        <item>tay_du_ky_che</item>
+        <item>the_gioi</item>
+        <item>tho_ca_cuoi</item>
+        <item>tho_vui</item>
+        <item>tieu_lam</item>
+        <item>tinh_yeu</item>
+        <item>ton_giao</item>
+        <item>trang_quynh</item>
+        <item>truyen_bua</item>
+        <item>viet_nam_va_the_gioi</item>
+        <item>vo_va</item>
+        <item>y_te</item>
+    </string-array>
+    <string-array name="mangTopicVN">
+        <item>Con gái</item>
+        <item>Con nít</item>
+        <item>Con trai</item>
+        <item>Công sở</item>
+        <item>Cực hài</item>
+        <item>Cười 18</item>
+        <item>Dân gian</item>
+        <item>Gia đình</item>
+        <item>Giao thông</item>
+        <item>Học sinh</item>
+        <item>Học trò cười</item>
+        <item>Khoa học</item>
+        <item>Nghề nghiệp</item>
+        <item>Người lớn</item>
+        <item>Nhà hàng</item>
+        <item>Say xỉn</item>
+        <item>Tam quốc</item>
+        <item>Tây du ký chế</item>
+        <item>Thế giới</item>
+        <item>Thơ ca cười</item>
+        <item>Thơ vui</item>
+        <item>Tiếu lâm</item>
+        <item>Tình yêu</item>
+        <item>Tôn giáo</item>
+        <item>Trạng Quỳnh</item>
+        <item>Truyện bựa</item>
+        <item>Việt Nam và thế giới</item>
+        <item>Vova</item>
+        <item>Y tế</item>
+    </string-array>
+</resources>
